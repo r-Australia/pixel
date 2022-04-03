@@ -1,8 +1,8 @@
-# Pixel store (wip)
+# AU Pixel Store
 
 Place to coordinate which pixel to place  
 Aktueller Bot Auftrag:
-![Bot Auftrag](output.png)
+![Bot](output.png)
 
 ## Scripts
 
